@@ -136,7 +136,7 @@ def pg2():
                 mixer.init()
                 mixer.music.load("beep-sound.mp3")
                 mixer.music.set_volume(1.0)
-                mixer.music.play()
+                mixer.music.play(2)
             else:
                 pass
     
