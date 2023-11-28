@@ -3,7 +3,11 @@
 Ensure the audio file is in the same folder with the Timer python file.
 For those using vscode open the folder containing both files with vscode.
 
-
+## **Installation**
+Open the command prompt and run the following command:
+ ``` 
+  pip3 install -r requirements.txt 
+  ```
 Contact:Gikuhiezekiel@gmail.com
 
 
